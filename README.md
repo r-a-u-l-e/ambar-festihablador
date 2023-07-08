@@ -5,7 +5,7 @@ versión 1
 
 El proyecto Ambar y su conceptualización se creó y gestó dentro 
 del marco del curso Metodologías de la Innovación que tubo la asesoría 
-y acompañamiento del docente Victor Freundt. Como parte del ciclo 3 
+y acompañamiento del docente Víctor Freundt. Como parte del ciclo 3 
 del 2023-I de la Carrera Profesional en Dirección de Proyectos 
 Visuales y fotografía. Con el fin de brindar herramientas de ideación
 para la solución de problemas mediante la metodología del Design Thinking.   
